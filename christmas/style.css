@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Corinthia:wght@700&family=Pacifico&display=swap');
+
+body{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	background-image:url("Background.jpg") ;
+	background-size: cover;
+	background-position: center;
+}
+
+.card{
+	border: 30px double rgb(199, 34, 34);
+	padding: 50px;
+background: linear-gradient(90deg, rgba(0,75,2,0.865983893557423) 0%, rgba(95,227,87,0.8323704481792717) 36%, rgba(101,224,106,0.8463760504201681) 56%, rgba(0,74,6,0.8603816526610644) 100%);
+border-radius: 40px;
+transition: all 4s;
+}
+
+.card:hover{
+transform:scale(1.5) rotate(360deg) ;
+transition: all 4s ;
+
+}
+	
+h1, h2, p{
+	font-family:Architects Daughter ;
+	font-size: 30px;
+    }
