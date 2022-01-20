@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Cinzel:wght@600&family=Dancing+Script&display=swap');
+
+
+h1{
+	font-family:"Cinzel";
+	text-align: center;
+	color: white;
+}
+
+h2{
+	font-family:"Dancing Script" ;
+	text-align: right;
+	color: white;
+}
+	
+p{
+	font-family: "Architects Daughter";
+	column-count: 3;
+	line-height: 1.5;
+	margin: 50px;
+	text-align: justify;
+	color: white;
+}
+       
+.signature{
+	font-family: "Dancing Script";
+	font-size: 50px;
+}
+body{
+	background: linear-gradient(180deg, rgba(0,0,0,1) 4%, rgba(194,22,22,1) 51%, rgba(178,246,0,1) 100%);
+}
