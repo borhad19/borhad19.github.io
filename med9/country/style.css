@@ -1,0 +1,36 @@
+.black{
+	background: black;
+	color: black;
+	padding: 25px;
+}
+
+.red{
+	background-color: red;
+	color: red;
+	padding: 25px;
+}
+
+
+.yellow{
+	background-color: yellow;
+	color: yellow;
+	padding: 25px;
+}
+
+h1{
+	text-align: center;
+
+}
+img{
+	width: 250px;
+	padding: 10px;
+	margin: all;
+	float: right;
+	border: 8px solid skyblue;
+	border-color: black;
+	border-radius: all;
+
+}
+body{
+	background-color: lightblue;
+}
