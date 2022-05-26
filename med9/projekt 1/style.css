@@ -1,0 +1,42 @@
+h1{
+	 font-size:50px ;
+	 color: lightgreen;
+	 background-color: darkgreen;
+	 margin: 20 px;
+	 text-align: center;
+	 border: double darkgreen;
+}
+h2{
+	color: lightgreen;
+	text-align: center;
+	font-size: 45px;
+	background-color: darkgreen;
+	border: double darkgreen;
+}
+img{
+	width: 100px;
+	margin: 50 px;
+}
+.text1{
+float: right;
+border: dotted darkgreen;
+}
+
+.text2{
+	float: left;
+	border: dotted darkgreen;
+}
+
+.text3{
+	float: right;
+	border: dotted darkgreen;
+}
+html{
+	background-color: lightgreen;
+}
+ol{
+	border: double darkgreen;
+}
+body{
+	font-size: 20px;
+}
