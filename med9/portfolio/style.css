@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+main{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 30px;
+}
+
+
+
+main a{
+	width: 300px;
+	height: 300px;
+	border: 2px dashed black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+	background-position: center;
+	color: black;
+	text-decoration: none;
+}
+
+main a p{
+	padding: 30px;
+	background-color: rgba(255,255,255, 0.7);
+}
+
+body{
+	background: radial-gradient(circle, rgba(116,116,116,1) 37%, rgba(46,46,46,1) 68%);
+	font-family: Lobster;
+	color: white;
+}
+
+.footer{
+	height: 150px;
+	width: 1667px;
+	font-family: Tapestry;
+}
+
+footer{
+	height: 150px;
+	width: 2000px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: radial-gradient(circle, rgba(116,116,116,1) 37%, rgba(46,46,46,1) 68%);
+	background-position: center;
+	background-size: cover;
+ 	font-family: Dancing Script;
+
+
+}
+
+footer p{
+background-color: rgb(255, 255, 255,0.7);
+padding: 12px;
+border-radius: 17px;
+font-size: 30px;
+font-family: Tapestry;
+}
+footer p:hover{
+color: white;
+
+
+}
